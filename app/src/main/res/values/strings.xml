@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">UTS Pemrograman Bergerak</string>
+    <string name="alamat">Alamat\n</string>
+    <string name="email">Email</string>
+    <string name="nama_testing">Testing\n</string>
+    <string name="desc">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Wulandari Wilujeng</item>
+        <item>Syahla Khanaya Naftali</item>
+        <item>Oktari</item>
+        <item>Doni Tri Nugroho</item>
+        <item>M. Fatkur Rahman Azizi Samaloisa</item>
+        <item>Elvira Saharani Rajaguukguk</item>
+        <item>Asmi Naya Fitri</item>
+        <item>Yoel Chrystover Sagala</item>
+        <item>Viona Dillarendza</item>
+        <item>Putri Setiawati</item>
+        <item>Muhammad Aji Wijaya</item>
+        <item>Yurnaningsih</item>
+        <item>Amilia Kartika</item>
+        <item>Muhammad Rizkiasyah</item>
+        <item>Tanti Ardiana</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+        <item>Mahasiswa</item>
+    </string-array>
+
+    <string-array name="data_alamat">
+        <item>Palembang</item>
+        <item>Palembang</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Palembang</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Palembang</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+    </string-array>
+
+    <string-array name="data_email">
+        <item>wulandariwilujeng11@gmail.com</item>
+        <item>syahlakn23@gmail.com</item>
+        <item>thaoktari@gmail.com</item>
+        <item>doni12430@gmail.com</item>
+        <item>azizsanctuary2017@gmail.com</item>
+        <item>elvirargg@gmail.com</item>
+        <item>asminayahfitri@gmail.com</item>
+        <item>chrystover0512@gmail.com</item>
+        <item>onadinza@gmail.com</item>
+        <item>putrisetiyawati05611@gmail.com</item>
+        <item>wijaya.muhammad.aji@gmail.com</item>
+        <item>yurnaningsih@gmail.com</item>
+        <item>iamtwomlks@gmail.com</item>
+        <item>rzksyh08@gmail.com</item>
+        <item>tantiardiana@gmail.com</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ajeng</item>
+        <item>@drawable/sala</item>
+        <item>@drawable/tari</item>
+        <item>@drawable/doni</item>
+        <item>@drawable/aziz</item>
+        <item>@drawable/elvira</item>
+        <item>@drawable/naya</item>
+        <item>@drawable/yoel</item>
+        <item>@drawable/ona</item>
+        <item>@drawable/putri</item>
+        <item>@drawable/ajik</item>
+        <item>@drawable/yurna</item>
+        <item>@drawable/amel</item>
+        <item>@drawable/rizki</item>
+        <item>@drawable/tanti</item>
+    </integer-array>
+
+</resources>
